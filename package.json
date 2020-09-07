@@ -1,0 +1,20 @@
+{
+  "name": "FietsMQ",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^14.0.27",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6",
+    "typescript": "^3.9.7",
+    "yargs": "^15.4.1",
+    "zeromq": "^6.0.0-beta.5"
+  }
+}
